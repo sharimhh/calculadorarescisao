@@ -30,7 +30,10 @@ export default function Home() {
     salario: '',
     motivoRescisao: 'demissao-sem-justa-causa',
     avisoPrevio: true,
-    fgts: true
+    fgts: true,
+    valeTransporte: false,
+    valeRefeicao: false,
+    planoSaude: false
   });
 
   const [resultado, setResultado] = useState<ResultadoCalculo | null>(null);
