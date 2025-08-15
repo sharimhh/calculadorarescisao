@@ -256,7 +256,7 @@ export default function Home() {
                       onChange={handleInputChange}
                       className="mr-2 h-4 w-4 text-blue-600 focus:ring-blue-500 border-gray-300 rounded"
                     />
-                    <label className="text-sm text-gray-700">
+                    <label className="text-sm text-white">
                       Considerar aviso prévio
                     </label>
                   </div>
@@ -269,7 +269,7 @@ export default function Home() {
                       onChange={handleInputChange}
                       className="mr-2 h-4 w-4 text-blue-600 focus:ring-blue-500 border-gray-300 rounded"
                     />
-                    <label className="text-sm text-gray-700">
+                    <label className="text-sm text-white">
                       Considerar FGTS
                     </label>
                   </div>
