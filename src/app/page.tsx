@@ -419,7 +419,7 @@ export default function Home() {
                   </svg>
                 </div>
                 <p className="text-lg font-medium mb-2">Aguardando Cálculo</p>
-                <p className="text-sm">Preencha os dados e clique em "Calcular Rescisão" para ver o resultado detalhado.</p>
+                <p className="text-sm">Preencha os dados e clique em &quot;Calcular Rescisão&quot; para ver o resultado detalhado.</p>
               </div>
             )}
           </div>
